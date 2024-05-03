@@ -1,8 +1,8 @@
 ### Hi there  👋
 
 
-- 🔭 I’m currently working on Xchange App
-- 🌱 I’m currently learning React Native
+- 🔭 I’m currently Exploring Data Engineering and Software Engineering
+- 🌱 I’m currently learning Django and Spark, Airlfow
 - 👯 I’m looking to collaborate on Javascript/Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/JivinVarghese/)
 
