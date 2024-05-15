@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently Exploring Data Engineering and Software Engineering
-- 🌱 I’m currently learning Django and Spark, Airlfow
+- 🌱 I’m currently learning Django and Spark, Airflow
 - 👯 I’m looking to collaborate on Javascript/Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/JivinVarghese/)
 
